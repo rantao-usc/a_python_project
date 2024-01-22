@@ -4,7 +4,7 @@
 
 This script is designed to process and predict data using Apache Spark and the XGBoost machine learning framework. It initializes the Spark context, loads data from CSV and JSON files, performs data transformation, and finally predicts using an XGBoost model.
 
-The link of the Python file: https://github.com/rantao-usc/a_python_project/blob/main/competition.py
+The link of the Python file: https://github.com/rantao-usc/a_python_project/blob/main/data_processing_and_modeling.py
 
 ## Illustrative Diagram
 ![Alternative Text](https://github.com/rantao-usc/spark-hw/blob/master/HW7%20Competition/demochart.drawio.png)
